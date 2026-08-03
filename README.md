@@ -1,6 +1,6 @@
 # Opening AetherHub in Fritzing
 
-1. Download `aetherhub_fritzing_project.zip` and extract `aetherhub_circuit.fzz`.
+1. Download `AetherhubFritzing.zip` and extract `aetherhub_circuit.fzz`.
 2. Open **Fritzing**.
 3. Go to **File > Open** and select `aetherhub_circuit.fzz`.
 
